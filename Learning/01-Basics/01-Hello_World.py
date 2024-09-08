@@ -1,4 +1,4 @@
-print('Hola Python')
+print('Hello python')
 
 # Esto es un comentario de una sola linea
 # Si quiero escribir varios debo colocar el "hastag"

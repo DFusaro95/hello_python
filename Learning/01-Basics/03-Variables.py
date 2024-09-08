@@ -46,7 +46,7 @@ print(len('Hello World'))
 # mismo print. Esto lo haremos de esta manera:
 
 name, surname, alias, age = 'Diego', 'Fusaro', '0xBon', 29
-print(f'Mi nombre es {name}, mi apellido es {surname}, me conocen como {alias} y tengo {age} años')
+print(f'My name is {name}, my surname is {surname}, Im known as {alias} and I have {age} years old')
 
 # Esta sintaxis de declarar muchas variables juntas, si bien es posible 
 # de realizar, no es una buena practica. No obstante, utilizar la sintaxis
@@ -58,4 +58,4 @@ print(f'Mi nombre es {name}, mi apellido es {surname}, me conocen como {alias} y
 # nosotros saludarlo
 
 first_name = input("what is your name: ")
-print(f'Hola {first_name}, un gusto en conocerte')
+print(f'Hello {first_name}, nice to meet you!')
